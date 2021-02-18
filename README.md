@@ -1,4 +1,4 @@
-### Hi there 👋
+### I moved to [arguellesv](https://github.com/arguellesv)
 
 <!--
 **lodolfo/lodolfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- You may be looking for this repo: https://github.com/arguellesv/Airport-Finder
+- You can also find me on twitter [@varguelles_](https://twitter.com/varguelles_)
